@@ -2,7 +2,7 @@ class: center, middle
 
 # Algorithms as documents
 
-Timothy Brathwaite  
+Timothy Brathwaite, PhD  
 January 2021
 
 ---
